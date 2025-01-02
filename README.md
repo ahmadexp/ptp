@@ -1,4 +1,4 @@
-# PTP [![GoDoc](https://godoc.org/github.com/facebookincubator/ptp?status.svg)](https://godoc.org/github.com/facebookincubator/ptp)
+# PTP [![CircleCI](https://circleci.com/gh/facebookincubator/ptp.svg?style=shield&circle-token=9254b05774162aee052aaac7773fb603d3356873)](https://circleci.com/gh/facebookincubator/ptp) [![GoDoc](https://godoc.org/github.com/facebookincubator/ptp?status.svg)](https://godoc.org/github.com/facebookincubator/ptp)
 
 <img width="50%" 
 align="right"
